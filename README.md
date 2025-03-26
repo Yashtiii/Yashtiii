@@ -1,5 +1,5 @@
-- 👋 Hi! I’m Yashti,
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
+- 👋 Hi! I’m Yashti Sahu,
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, C, Java.
 - 🤖 I’m working on an exciting project: Food Label Reader using Flask, EasyOCR, and Gemini API
 - 💡 I enjoy solving problems, especially those that help improve daily life through tech solutions.
 - 📫 How to reach me: [yashtisahu.work@gmail.com]
